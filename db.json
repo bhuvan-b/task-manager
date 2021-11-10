@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn about React Hooks",
+      "day": "1st Nov",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "ADA Assignment",
+      "day": "3rd Nov",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "SWOC Script India",
+      "day": "11th Nov",
+      "reminder": true
+    }
+  ]
+}
